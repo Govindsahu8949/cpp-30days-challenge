@@ -1,0 +1,24 @@
+#practise on lower & upper case
+
+#include<iostream>
+using namespace std;
+
+string ltrim(const string &);
+string rtrim(const string &);
+
+int main(){
+
+char n;
+cin>>n;
+    if(islower(n)){
+        cout<<"this is lower"<<endl;
+    }
+        elseif(isupper(n)){
+            cout<<"this is upper"<<endl;}
+    else{
+                cout<<"this is null";
+            }
+        
+    
+    return 0;
+}
