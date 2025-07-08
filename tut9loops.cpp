@@ -16,7 +16,12 @@ int main(){
      {
      cout<<i<<endl;
      }
-i++ ;   // increment the code by 1,,,,2 skip 3 4
+i++ ; 
+//      return 0;
+// }
+    
+    
+    // increment the code by 1,,,,2 skip 3 4
   
 
 
